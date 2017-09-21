@@ -1,0 +1,202 @@
+
+body{
+	background-color: #eeeeee;
+	font-family: Arial;
+}
+
+#wrapper{
+	background-color: #ffffff;
+	width: 730px;
+	margin: -20px auto 0px auto;
+	padding: 15px;
+	border: 2px solid #D3D3D3;
+
+}
+.back
+{
+	background : url(img3.gif) repeat-y;
+}
+
+#logo{
+	background-color: #eeeeee;
+	border: solid 1px #000000;
+	margin: 15px 0 15px 0;
+
+}
+hr
+{
+	height: 4px;
+	background-color: black;
+}
+#logo img{
+	margin-left: 190px;
+}
+
+#black nav ul{
+	background-color: white;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+
+}
+
+#black nav ul li{
+	display: inline-block;
+	background-color: black;
+	margin-left: 40px;
+	padding: 5px 40px 5px 40px;
+
+}
+
+#black nav ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+#blue nav ul{
+	background-color: white;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	margin-top: -28px;
+	margin-left: 208px;
+
+}
+
+#blue nav ul li{
+	display: inline-block;
+	background-color: #669ACC;
+	padding: 5px 40px 5px 40px;
+
+}
+
+#blue nav ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.first{
+	margin: 0;
+	padding: 10px;
+	float: left;
+}
+
+h2{
+	color: #ff0164;
+	margin: 0;
+	padding: 10px;
+}
+h3{
+	color: #ff0164;
+	margin: 15px 0 10px 0;
+}
+
+.first p{
+	margin: 0;
+	padding: 10px;
+	text-align: justify;
+	
+}
+
+.main img{
+	float: right;
+	margin-top: 40px;
+	
+}
+
+
+.first-tbl table
+{
+	border-collapse:collapse;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+caption{
+	color: #ff0164;
+	font-weight: bold;
+}
+.first-tbl td
+{
+	text-align: center;
+    vertical-align: middle;
+	width:230px;
+	height: 25px;
+	border: 1px solid black;
+}
+.t1
+{
+	background-color: #dddddd;
+}
+.t2
+{
+	background-color: #ff0164;
+	color: #ffffff;
+}
+.t3
+{
+	background-color: #ffcccb;
+}
+.t4
+{
+	background-color: #ffffff;
+}
+
+.head
+{
+	background-color: #669ACC;
+	color: #fff;
+	height: 25px
+}
+.list ul
+{list-style-type: upper-roman;}
+.list ol
+{list-style-type: none;}
+
+footer
+{	margin: 15px;}
+.fooleft
+{
+	float: left;
+	margin-top: -25px;
+
+}
+.fooright a
+{
+	float: right;
+	color: #ff0164;
+	margin-top: -10px;
+}
+
+select, input, textarea
+{
+	width: 300px;
+}
+.tbl1
+{
+	text-align: right;
+	padding-right: 15px;
+}
+.tbl1
+{
+	background-color: #fff;
+}
+h4
+{padding: 4px;}
+
+button
+{
+	background-color: #ff0164;
+	color: #fff;
+	border: none;
+}
+.btn
+{
+	margin-top: -100px;
+	float:right;}
+.m4
+{
+	margin: 20px 0px 20px 0px;
+}

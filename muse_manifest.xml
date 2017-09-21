@@ -1,0 +1,215 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="dylan-parbhoo.com" resolutions="1x" timestamp="1492515095817">
+  <folder name="css">
+    <file name="site_global.css" crc="491142133"/>
+    <file name="master_a-gabarit.css" crc="15357159" ref="index"/>
+    <file name="master_c-gabarit.css" crc="3896916078" ref="the-clood:galerie-d-art-divers:geezot---teachreo"/>
+    <file name="home.css" crc="2416438" ref="home"/>
+    <file name="the-clood.css" crc="4015246408" ref="the-clood"/>
+    <file name="galerie-d-art-divers.css" crc="316220495" ref="galerie-d-art-divers"/>
+    <file name="geezot---teachreo.css" crc="4256432221" ref="geezot---teachreo"/>
+    <file name="index.css" crc="3829026605" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="icone-c.ico" crc="157607882" seo="true" mt="1457960420000"/>
+    <file name="video-commerciale-compressed.mp4" crc="3920586046" seo="true" mt="1490564559000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="museutils.js" crc="4155826306" ref="phone>index:phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="museconfig.js" crc="328327953" ref="phone>index:phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="jquery.watch.js" crc="117772946" ref="phone>index:phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="require.js" crc="228336483" ref="phone>index:phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="pie.js" crc="3827607177" ref="phone>home:home:the-clood:galerie-d-art-divers"/>
+    <file name="webpro.js" crc="4078243563" ref="phone>home:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="phone>home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="phone>home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="touchswipe.js" crc="157639107" ref="phone>home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="form_check.php" crc="474517188" ref="phone>home"/>
+    <file name="form_throttle.php" crc="495784356" ref="phone>home"/>
+    <file name="form_process.php" crc="4149049960" ref="phone>home"/>
+    <file name="form-u1893.php" crc="3831480552" ref="phone>home"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="home"/>
+    <file name="form-u276.php" crc="153841271" ref="home"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4237552491" ref="phone>index"/>
+    <file name="logo.png" crc="3927893539" seo="true" ref="phone>index:phone>home:index:home"/>
+    <file name="home-favicon.ico" crc="4237552491" ref="phone>home"/>
+    <file name="u1938.png" crc="188448437" ref="phone>home"/>
+    <file name="u2478.png" crc="3920341455" ref="phone>home"/>
+    <file name="u2481.png" crc="3920341455" ref="phone>home"/>
+    <file name="42-logo.png" crc="9442828" seo="true" ref="phone>home:home"/>
+    <file name="photo-semi-poly-nb1115x175.png" crc="4064190430" seo="true" ref="phone>home"/>
+    <file name="informatique315x158.jpg" crc="309477792" seo="true" ref="phone>home"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>home:index:home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="recto 1350x248.png" crc="3799425200" seo="true" ref="phone>home"/>
+    <file name="recto 2343x243.png" crc="3890305997" seo="true" ref="phone>home"/>
+    <file name="recto 3309x219.png" crc="3786543526" seo="true" ref="phone>home"/>
+    <file name="recto 4351x249.jpg" crc="500264082" seo="true" ref="phone>home"/>
+    <file name="recto-1270x384.jpg" crc="167661862" seo="true" ref="phone>home"/>
+    <file name="recto-h338x240.jpg" crc="137612781" seo="true" ref="phone>home"/>
+    <file name="sportttt274x137.jpg" crc="424920723" seo="true" ref="phone>home"/>
+    <file name="verso.jpg" crc="4016943527" seo="true" ref="phone>home"/>
+    <file name="verso-1.jpg" crc="4023822116" seo="true" ref="phone>home"/>
+    <file name="informatique-crop-u2727.jpg" crc="3938559722" ref="phone>home"/>
+    <file name="recto 164x45.png" crc="32487078" seo="true" ref="phone>home"/>
+    <file name="recto 264x45.png" crc="4121820696" seo="true" ref="phone>home"/>
+    <file name="recto 364x45.png" crc="3819235390" seo="true" ref="phone>home"/>
+    <file name="recto 464x45.jpg" crc="467091140" seo="true" ref="phone>home"/>
+    <file name="recto-1-crop-u2969.jpg" crc="4229705510" ref="phone>home"/>
+    <file name="recto-h64x45.jpg" crc="206810264" seo="true" ref="phone>home"/>
+    <file name="sportttt-crop-u3009.jpg" crc="18459577" ref="phone>home"/>
+    <file name="verso-1-crop-u3049.jpg" crc="4177003042" ref="phone>home"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>home:the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="home.png" crc="4111628181" seo="true" ref="phone>home"/>
+    <file name="3-invitation lbm154x218.jpg" crc="450249172" seo="true" ref="phone>home"/>
+    <file name="plaquette-4e-couverture.jpg" crc="86571008" seo="true" ref="phone>home"/>
+    <file name="plaquette-couverture.jpg" crc="4182717531" seo="true" ref="phone>home"/>
+    <file name="plaquette-intérieur-2.jpg" crc="391972058" seo="true" ref="phone>home"/>
+    <file name="3-invitation lbm-crop-u3296.jpg" crc="370797980" ref="phone>home"/>
+    <file name="client_le-bon-marché.png" crc="460282366" seo="true" ref="phone>home"/>
+    <file name="2-mailling ficif.jpg" crc="218707713" seo="true" ref="phone>home"/>
+    <file name="affiche333x188.jpg" crc="4070461025" seo="true" ref="phone>home"/>
+    <file name="affiche-cerveau162x230.jpg" crc="4207199293" seo="true" ref="phone>home"/>
+    <file name="anglais.jpg" crc="4099818317" seo="true" ref="phone>home"/>
+    <file name="monde céleste338x190.jpg" crc="432125388" seo="true" ref="phone>home"/>
+    <file name="tree20177x235.jpg" crc="4252123366" seo="true" ref="phone>home"/>
+    <file name="2-mailling ficif-crop-u3665.jpg" crc="3796243481" ref="phone>home"/>
+    <file name="affiche-crop-u3685.jpg" crc="4013023919" ref="phone>home"/>
+    <file name="affiche-cerveau-crop-u3705.jpg" crc="3876680709" ref="phone>home"/>
+    <file name="anglais-crop-u3725.jpg" crc="418633116" ref="phone>home"/>
+    <file name="monde céleste-crop-u3745.jpg" crc="4029884146" ref="phone>home"/>
+    <file name="tree20-crop-u3765.jpg" crc="4257927912" ref="phone>home"/>
+    <file name="icone-c.png" crc="3869829914" seo="true" ref="phone>home:home"/>
+    <file name="logo-f2-coté-clear.png" crc="53972996" seo="true" ref="phone>home:home"/>
+    <file name="u1909-17.png" crc="517177958" ref="phone>home"/>
+    <file name="u1909-17-r.png" crc="369074170" ref="phone>home"/>
+    <file name="u1909-17-m.png" crc="4270340392" ref="phone>home"/>
+    <file name="u1909-17-fs.png" crc="68213671" ref="phone>home"/>
+    <file name="twitter_circle_black-512.png" crc="4038579084" seo="true" ref="phone>home:home"/>
+    <file name="facebook-2.png" crc="460767725" seo="true" ref="phone>home:home"/>
+    <file name="linkedin_circle_black-512.png" crc="79235831" seo="true" ref="phone>home:home"/>
+    <file name="u102_states.png" crc="4192677894" ref="index"/>
+    <file name="u102_states-r.png" crc="507244411" ref="index"/>
+    <file name="u101_states.png" crc="4029420666" ref="index"/>
+    <file name="u101_states-r.png" crc="103045841" ref="index"/>
+    <file name="u91-7.png" crc="220205265" ref="index"/>
+    <file name="u100_states.png" crc="3788330768" ref="index"/>
+    <file name="u100_states-r.png" crc="4011402222" ref="index"/>
+    <file name="u96_states.png" crc="3779725677" ref="index"/>
+    <file name="u96_states-r.png" crc="261468240" ref="index"/>
+    <file name="u3802.png" crc="72979257" ref="home"/>
+    <file name="u3803.png" crc="435974446" ref="home"/>
+    <file name="u376_states.png" crc="531462170" ref="home"/>
+    <file name="u376_states-r.png" crc="3885008865" ref="home"/>
+    <file name="u375_states.png" crc="4105877701" ref="home"/>
+    <file name="u375_states-r.png" crc="4092780365" ref="home"/>
+    <file name="photo-semi-poly-nb1.png" crc="340568817" seo="true" ref="home"/>
+    <file name="portfolio.png" crc="4085578520" seo="true" ref="home"/>
+    <file name="u374_states.png" crc="49140912" ref="home"/>
+    <file name="u374_states-r.png" crc="3774787313" ref="home"/>
+    <file name="u373_states.png" crc="389289824" ref="home"/>
+    <file name="u373_states-r.png" crc="313047138" ref="home"/>
+    <file name="logo-crop-u3904.png" crc="4223494878" ref="home"/>
+    <file name="u275-4.png" crc="4177970536" ref="home"/>
+    <file name="u298-6.png" crc="251990270" ref="home"/>
+    <file name="u288-17.png" crc="517177958" ref="home"/>
+    <file name="u288-17-r.png" crc="369074170" ref="home"/>
+    <file name="u288-17-m.png" crc="4270340392" ref="home"/>
+    <file name="u288-17-fs.png" crc="68213671" ref="home"/>
+    <file name="fleche.png" crc="106597737" seo="true" ref="the-clood:geezot---teachreo:galerie-d-art-divers"/>
+    <file name="1360x37.png" crc="4005643462" seo="true" ref="the-clood"/>
+    <file name="1060x37.png" crc="3980560696" seo="true" ref="the-clood"/>
+    <file name="760x37.jpg" crc="404933351" seo="true" ref="the-clood"/>
+    <file name="458x37.png" crc="279792912" seo="true" ref="the-clood"/>
+    <file name="1270x44.png" crc="50183530" seo="true" ref="the-clood"/>
+    <file name="1162x39.png" crc="3894961302" seo="true" ref="the-clood"/>
+    <file name="963x40.png" crc="4181757980" seo="true" ref="the-clood"/>
+    <file name="666x41.jpg" crc="453659030" seo="true" ref="the-clood"/>
+    <file name="13.png" crc="290422990" seo="true" ref="the-clood"/>
+    <file name="10.png" crc="214645950" seo="true" ref="the-clood"/>
+    <file name="7.jpg" crc="4157575696" seo="true" ref="the-clood"/>
+    <file name="4.png" crc="90395036" seo="true" ref="the-clood"/>
+    <file name="12.png" crc="4101340766" seo="true" ref="the-clood"/>
+    <file name="11.png" crc="4027002341" seo="true" ref="the-clood"/>
+    <file name="9.png" crc="314766929" seo="true" ref="the-clood"/>
+    <file name="6.jpg" crc="4041419878" seo="true" ref="the-clood"/>
+    <file name="home2 -récupéré-2.png" crc="4088818047" seo="true" ref="the-clood"/>
+    <file name="home2.jpg" crc="7768954" seo="true" ref="the-clood"/>
+    <file name="home4.png" crc="4291445977" seo="true" ref="the-clood"/>
+    <file name="home6.png" crc="139595922" seo="true" ref="the-clood"/>
+    <file name="prez2.jpg" crc="4286987551" seo="true" ref="the-clood"/>
+    <file name="home2.png" crc="3788490913" seo="true" ref="the-clood"/>
+    <file name="home2 -récupéré-263x37.png" crc="431595633" seo="true" ref="the-clood"/>
+    <file name="home267x38.jpg" crc="389115749" seo="true" ref="the-clood"/>
+    <file name="home463x36.png" crc="4134779834" seo="true" ref="the-clood"/>
+    <file name="home661x35.png" crc="101375214" seo="true" ref="the-clood"/>
+    <file name="prez277x44.jpg" crc="422624606" seo="true" ref="the-clood"/>
+    <file name="home63x35.png" crc="4148988860" seo="true" ref="the-clood"/>
+    <file name="recto 1.png" crc="3919049503" seo="true" ref="the-clood"/>
+    <file name="recto 2.png" crc="151934040" seo="true" ref="the-clood"/>
+    <file name="recto 3.png" crc="3828859051" seo="true" ref="the-clood"/>
+    <file name="recto 4.jpg" crc="4026227645" seo="true" ref="the-clood"/>
+    <file name="recto-h.jpg" crc="287672760" seo="true" ref="the-clood"/>
+    <file name="recto-1.jpg" crc="355218585" seo="true" ref="the-clood"/>
+    <file name="informatique.jpg" crc="4047989809" seo="true" ref="the-clood"/>
+    <file name="sportttt.jpg" crc="3859637664" seo="true" ref="the-clood"/>
+    <file name="recto-1-crop-u5559.jpg" crc="4229705510" ref="the-clood"/>
+    <file name="informatique-crop-u5617.jpg" crc="3938559722" ref="the-clood"/>
+    <file name="sportttt-crop-u5637.jpg" crc="18459577" ref="the-clood"/>
+    <file name="cover twitter2.jpg" crc="188107806" seo="true" ref="geezot---teachreo"/>
+    <file name="cover 2017.jpg" crc="4202330702" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook -2017-02.png" crc="4170186544" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook -noel.jpg" crc="144498150" seo="true" ref="geezot---teachreo"/>
+    <file name="geezot-constuction(1).jpg" crc="238105437" seo="true" ref="geezot---teachreo"/>
+    <file name="cover twitter260x20.jpg" crc="3833897049" seo="true" ref="geezot---teachreo"/>
+    <file name="cover 201760x23.jpg" crc="3927341911" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook -2017-0260x23.png" crc="63183862" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook -noel60x23.jpg" crc="153248812" seo="true" ref="geezot---teachreo"/>
+    <file name="geezot-constuction(1)60x34.jpg" crc="25549154" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook 2016.png" crc="3804849611" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook-noel.jpg" crc="374844403" seo="true" ref="geezot---teachreo"/>
+    <file name="affiche teasing-nov.jpg" crc="4138510443" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook 2017.png" crc="3886991750" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook 2017-02.png" crc="4009194623" seo="true" ref="geezot---teachreo"/>
+    <file name="affiche-1001-pattes-15.png" crc="253331137" seo="true" ref="geezot---teachreo"/>
+    <file name="maquette.jpg" crc="3789199404" seo="true" ref="geezot---teachreo"/>
+    <file name="infographie2-d.jpg" crc="3816832596" seo="true" ref="geezot---teachreo"/>
+    <file name="infographie-30.jpg" crc="532380597" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook 201660x23.png" crc="3807036281" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook-noel60x23.jpg" crc="281278543" seo="true" ref="geezot---teachreo"/>
+    <file name="affiche teasing-nov60x33.jpg" crc="364687231" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook 201760x23.png" crc="3891766231" seo="true" ref="geezot---teachreo"/>
+    <file name="cover facebook 2017-0260x23.png" crc="3804218061" seo="true" ref="geezot---teachreo"/>
+    <file name="affiche-1001-pattes-1532x45.png" crc="283377743" seo="true" ref="geezot---teachreo"/>
+    <file name="maquette60x44.jpg" crc="227307516" seo="true" ref="geezot---teachreo"/>
+    <file name="infographie2-d32x45.jpg" crc="427582218" seo="true" ref="geezot---teachreo"/>
+    <file name="infographie-3060x42.jpg" crc="221837234" seo="true" ref="geezot---teachreo"/>
+    <file name="affiche-cerveau.jpg" crc="519564394" seo="true" ref="galerie-d-art-divers"/>
+    <file name="3-invitation lbm.jpg" crc="396133564" seo="true" ref="galerie-d-art-divers"/>
+    <file name="affiche.jpg" crc="481698980" seo="true" ref="galerie-d-art-divers"/>
+    <file name="monde céleste.jpg" crc="3952874682" seo="true" ref="galerie-d-art-divers"/>
+    <file name="tree20.jpg" crc="153312560" seo="true" ref="galerie-d-art-divers"/>
+    <file name="lion time.jpg" crc="24014286" seo="true" ref="galerie-d-art-divers"/>
+    <file name="affiche-cerveau-crop-u6618.jpg" crc="3876680709" ref="galerie-d-art-divers"/>
+    <file name="3-invitation lbm-crop-u6986.jpg" crc="370797980" ref="galerie-d-art-divers"/>
+    <file name="affiche-crop-u7006.jpg" crc="4013023919" ref="galerie-d-art-divers"/>
+    <file name="monde céleste-crop-u7026.jpg" crc="4029884146" ref="galerie-d-art-divers"/>
+    <file name="tree20-crop-u7046.jpg" crc="4257927912" ref="galerie-d-art-divers"/>
+    <file name="lion time68x45.jpg" crc="374530492" seo="true" ref="galerie-d-art-divers"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="home.css" crc="3800466214" ref="phone>home"/>
+      <file name="index.css" crc="3995188031" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4218744200" seo="true" mt="1475687943447" redirect="true"/>
+    <file name="home.html" crc="4133762302" seo="true" mt="1492513119882" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4195954374" seo="true" mt="1492515089941" redirect="true"/>
+  <file name="home.html" crc="3900490528" seo="true" mt="1492515012554" redirect="true"/>
+  <file name="the-clood.html" crc="3994985308" seo="true" mt="1492514388556" redirect="true"/>
+  <file name="geezot---teachreo.html" crc="4275184125" seo="true" mt="1492514644626" redirect="true"/>
+  <file name="galerie-d-art-divers.html" crc="313990030" seo="true" mt="1492513958475" redirect="true"/>
+</manifest>
